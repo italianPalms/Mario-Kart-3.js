@@ -152,7 +152,6 @@ export const Experience = () => {
 
       <ParisBis position={[0, 0, 0]} />
       <ItemBox position={[-20, 2.5, -119]} />
-      <ItemBox position={[-10, 2.5, -119]} />
       <Coin position={[-30, 2, -119]} />
       <Skid />
       <Dust />
